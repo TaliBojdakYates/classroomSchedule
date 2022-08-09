@@ -15,3 +15,7 @@ This website also handles user error if they enter a classroom that does not exi
 <img width="70%" alt="error page" src="https://user-images.githubusercontent.com/62511971/183686616-abb91b05-94cf-427a-abfc-c6dafc719c8f.png">
 
 The website also connects to a MySQL data base which holds a list of all the classes and the times that they happen. This is a mok data base with data for Monday. More data could be added for the other days. The code is currently hardcoded to be set on monday, but if more classroom data for different days was imputed different classes would show up depending on the day. 
+
+<img width="70%" alt="full rooms" src="https://user-images.githubusercontent.com/62511971/183688955-140efa61-9e9f-48af-aad4-c5adf648c2b6.png">
+The following image is part of the list of valid rooms
+<img width="304" alt="valid rooms" src="https://user-images.githubusercontent.com/62511971/183689087-a1c1e6ec-4189-4f0d-b3fc-99cc15fbc6e0.png">
