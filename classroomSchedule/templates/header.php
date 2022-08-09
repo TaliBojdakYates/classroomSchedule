@@ -1,6 +1,8 @@
 <?php
   include ('config/db_connect.php');
+  // the next line would allow the website to show the correct classes for the current day
   // $today = date("l");
+  // The code is set to monday due to the mok data base
   $today = 'Monday';
  
   $errors = array('searchBuilding'=>'','searchRoom'=>'');
