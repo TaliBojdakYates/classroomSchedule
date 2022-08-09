@@ -13,3 +13,5 @@ The classroom schedule website has two main pages. One page is for when the clas
 This website also handles user error if they enter a classroom that does not exist. If this happens a pop up appears to let the user know they made a mistake.
 
 <img width="70%" alt="error page" src="https://user-images.githubusercontent.com/62511971/183686616-abb91b05-94cf-427a-abfc-c6dafc719c8f.png">
+
+The website also connects to a MySQL data base which holds a list of all the classes and the times that they happen. This is a mok data base with data for Monday. More data could be added for the other days. The code is currently hardcoded to be set on monday, but if more classroom data for different days was imputed different classes would show up depending on the day. 
